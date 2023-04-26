@@ -1,0 +1,24 @@
+/*carPark*/
+
+.parkButton2{
+    margin-left: 200;
+    background: aqua;
+    padding: 15 30;
+    border-radius:10px;
+  
+}
+.parkButton1{
+    background: aqua;
+    padding: 15 30;
+    border-radius: 10px;
+}
+
+.PARK{
+    margin-left:250;
+    margin-top: 30;
+    background: white;
+    
+}
+.BOOK{
+    background: white;
+}

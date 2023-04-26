@@ -1,0 +1,28 @@
+/*login*/
+
+.inside1{
+    margin-top: -30;
+    margin-left: -1000px;
+}
+.inside{
+   
+
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 383px;
+    border: 1px solid;
+    overflow: visible;
+    margin: auto;
+    background-color: rgb(48, 118, 142);
+    border-radius:10px;
+    margin-top: 11px;
+}
+.form1 {
+    border-radius: 10px;
+    background-color: #3e74a7;
+    padding: 20px;
+    height: 295;
+    margin-top: 25;
+    margin-left: 25;
+    margin-right: 25;
+  }
