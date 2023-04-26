@@ -1,5 +1,5 @@
 # Automated-Parking-System
-This web project is 1 year 2nd semester project for BSc(Hons)Information Technology in SLIIT. Technologies such as HTML,CSS,Javascript,PHP and Microsoft SQL Server are used for this projects. This project is simply designed to enhance knowledge.
+This web project is 1 year 2nd semester project for BSc(Hons)Information Technology in SLIIT.Technologies & tools such as HTML,CSS,Javascript,PHP and Microsoft SQL Server, Mockflow & Draw.io are used for this projects. This project is simply designed to enhance knowledge.
 
 ### 🔖 Batch - Y1.S2.WD.IT.09.01
 ### 🔖 Group - 09.01_7
@@ -11,9 +11,6 @@ This web project is 1 year 2nd semester project for BSc(Hons)Information Technol
 |Member 3|  IT21174612 |  De Davin G.G.P.N |  | 
 |Member 4|  IT21176210 | Asmitha Thiraviyarasa |  | 
 |Member 5|  IT21176142 | Abiramy Kumaresan |  | 
-
-
-
 
 ### 🏷️ Brief Description of Project 
 
