@@ -25,9 +25,10 @@ This web project is 1 year 2nd semester project for BSc(Hons)Information Technol
     - CSS -
     - Javascript -
     - PHP -
-    - Microsoft SQL -
+    - Microsoft SQL Server -
     - Mockflow -
     - Draw.io -
+    - Visual Studio Code -
       
     
 
